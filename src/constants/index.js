@@ -24,10 +24,10 @@ export const EXPERIENCES = [
       "Tailwind CSS",
     ],
     projects: [
-      "• ABIS DigitalFlockbook: Developed a mobile app for poultry farmers, currently used by 10,000+ users across India. Focused on intuitive UI/UX, smooth navigation, and robust performance across devices.",
-      "• ABIS Digital Sales: Led the front-end development of an app for managing bird sales, order processing, and quotations. Delivered seamless UI and launched it successfully on the Play Store with excellent user adoption.",
-      "• ABIS Digital Farmer Onboarding: Built a farmer self-onboarding app with Aadhaar-based e-sign verification, location tracking, and referral features for registered farmers. Streamlined the onboarding process and increased farmer participation.",
-      "• IB Group Official Website: Contributed to the development of the company's official website using React.js and Tailwind CSS. Focused on responsiveness, performance optimization, and brand-consistent UI/UX design.",
+      " ABIS DigitalFlockbook: Developed a mobile app for poultry farmers, currently used by 10,000+ users across India. Focused on intuitive UI/UX, smooth navigation, and robust performance across devices.",
+      " ABIS Digital Sales: Led the front-end development of an app for managing bird sales, order processing, and quotations. Delivered seamless UI and launched it successfully on the Play Store with excellent user adoption.",
+      " ABIS Digital Farmer Onboarding: Built a farmer self-onboarding app with Aadhaar-based e-sign verification, location tracking, and referral features for registered farmers. Streamlined the onboarding process and increased farmer participation.",
+      " IB Group Official Website: Contributed to the development of the company's official website using React.js and Tailwind CSS. Focused on responsiveness, performance optimization, and brand-consistent UI/UX design.",
     ],
   },
   {
