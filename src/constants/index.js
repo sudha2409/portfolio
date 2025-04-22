@@ -43,6 +43,7 @@ export const PROJECTS = [
   {
     title: "Food Delivery Website",
     image: project1,
+    link: "https://yummyfoodapp.netlify.app/",
     description:
       "Built a modern, mobile-friendly food delivery website with real-time Swiggy API integration, infinite scroll, and custom hooks. Achieved Google Lighthouse score of 99 with Vite optimizations.",
     technologies: ["React", "Redux Toolkit", "Tailwind CSS", "Vite"],
@@ -50,6 +51,7 @@ export const PROJECTS = [
   {
     title: "What GPT3 OpenAI",
     image: project2,
+    link: "https://whatgpt3openai.netlify.app/",
     description:
       "Created a responsive, GPT-3 powered UI for enhanced user interaction. Focused on clean UI across devices with consistent rendering using React.js.",
     technologies: ["React", "CSS", "JavaScript", "OpenAI API"],
@@ -57,6 +59,7 @@ export const PROJECTS = [
   {
     title: "Shoplane Website",
     image: project3,
+    link: "https://shop-lane1.netlify.app/",
     description:
       "Developed an e-commerce platform with product listing, cart, filtering, and online payment. Designed for seamless UX across devices with Redux state management.",
     technologies: ["React", "Redux Toolkit", "Tailwind CSS"],
@@ -64,6 +67,7 @@ export const PROJECTS = [
   {
     title: "Purple Maze Website",
     image: project4,
+    link: "https://purplemaze.net/",
     description:
       "Freelance project for a marketing agency to showcase strategy videos and reels. Delivered performance-optimized frontend that led to 40% business growth.",
     technologies: ["React", "HTML", "CSS", "JavaScript"],
