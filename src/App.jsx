@@ -5,7 +5,7 @@ import Technologies from "./components/Technologies";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
